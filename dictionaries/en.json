@@ -1,0 +1,50 @@
+{
+  "navigation": {
+    "welcome": "Welcome to ADIKS",
+    "stores": "Stores",
+    "payments": "Payments",
+    "delivery": "Delivery",
+    "company": "About the Company",
+    "catalog": "Catalog",
+    "massage_chair": "Massage Chair",
+    "login": "Login",
+    "new": "New",
+    "home": "Home",
+    "bookmarks": "Bookmarks",
+    "cart": "Cart",
+    "profil": "Profile",
+    "adiks": "Adiks",
+    "close": "Close",
+    "products": "Products",
+    "contact": "Contact",
+    "search": "Search",
+    "working_hours": "Working hours",
+    "mon_sat": "Mo-Sa",
+    "from": "From",
+    "to": "To",
+    "our_smm": "Follow us on social networks",
+    "navigation": "Navigation",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_use": "Terms of Use",
+    "qa": "Questions & Answers",
+    "help": "Help",
+    "all_massage_chairs": "All massage chairs",
+    "price_range": "Narx",
+    "filter": "Filter",
+    "load_more": "Yana ko'rsatish",
+    "loading": "Yuklanyapti"
+  },
+  "page": {
+    "home": {
+      "title": "Welcome to ADIKS",
+      "new_products": "New products",
+      "popular_models": "Popular models",
+      "for_home": "For home"
+    },
+    "add_to_cart": "Add to cart",
+    "buy_now": "Buy now",
+    "in_stock": "In stock",
+    "out_stock": "Out stock",
+    "pre_order": "Pre order"
+  }
+}
